@@ -4,6 +4,7 @@
     --light: #fff;
     --letra: #000;
     --off: #e7e7e7;
+    --add:#A5C882;
 }
 
 
@@ -23,6 +24,8 @@ body {
 .roundBorder {
     border-radius: 10px;
 }
+
+
 
 .list {
     margin: 25px auto;
@@ -98,7 +101,7 @@ input:focus {
     height: 35px;
     border-radius: 50%;
     font-size: 18px;
-    background-color: var(--off);
+    background-color: var(--add);
 }
 
 .orderButton {
